@@ -82,7 +82,7 @@ We spend hours on social media every day, and we get notifications all day long.
 
 ## 🚀 How to Explore It
 
-1. Download `Digital_Wellbeing.pbix` from this repo
+1. Download `Social_media_VS_Productivity.pbix` from this repo
 2. Open it in **Power BI Desktop**
 3. Use the sidebar to move between pages (Overview, Digital, Productivity, Satisfaction, Focus, Insights)
 4. Filter by age, gender, job type, and platform
